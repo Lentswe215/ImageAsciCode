@@ -1,0 +1,15 @@
+html,
+body {
+  font-family: "Courier" !important;
+  font-size: 12pt !important;
+  background-color: #000 !important;
+  color: #fff !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  line-height: 10pt !important;
+}
+
+video {
+  margin-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
